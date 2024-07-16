@@ -1,9 +1,10 @@
-# apbd10
+# PatientsAPI
 
 Using this database, implemented with "code first"
+Technologies used: Entity Framework, Swagger
 ![image](https://github.com/user-attachments/assets/71e72067-b448-4a3d-9f51-8a0faf1da3fd)
 
-This API allows the user to:
+This API allows to use these endpoints:
 
 -Create Prescription Endpoint
 
