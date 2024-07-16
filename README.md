@@ -20,6 +20,7 @@ Patient Details: General information about the patient.
 Prescriptions: A list of prescriptions the patient has received.
 Medications: Details of the medications the patient has taken.
 Doctors: Information about the doctors who prescribed the medications.
+
 Endpoint: /api/patient/{patientId}
 Method: GET
 
